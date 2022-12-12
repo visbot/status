@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.visbot.net.ico",
     "slug": "visbot-net",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1081,
-    "timeDay": 1407,
-    "timeWeek": 1422,
-    "timeMonth": 1081,
-    "timeYear": 1081,
+    "uptimeYear": "99.97%",
+    "time": 1067,
+    "timeDay": 436,
+    "timeWeek": 1524,
+    "timeMonth": 1065,
+    "timeYear": 1067,
     "dailyMinutesDown": {
       "2022-12-06": 15
     }
