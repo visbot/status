@@ -1,7 +1,7 @@
 url: https://www.visbot.net
-status: up
-code: 200
-responseTime: 936
-lastUpdated: 2024-07-27T23:18:22.858Z
+status: down
+code: 502
+responseTime: 5295
+lastUpdated: 2024-07-28T19:34:33.016Z
 startTime: 2022-11-11T01:45:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
