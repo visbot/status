@@ -6,17 +6,15 @@
     "slug": "visbot-net",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 552,
-    "timeDay": 1467,
-    "timeWeek": 1056,
-    "timeMonth": 694,
-    "timeYear": 511,
-    "dailyMinutesDown": {
-      "2024-07-28": 6
-    }
+    "timeDay": 2284,
+    "timeWeek": 1088,
+    "timeMonth": 716,
+    "timeYear": 513,
+    "dailyMinutesDown": {}
   }
 ]
