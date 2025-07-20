@@ -4,7 +4,7 @@
     "url": "https://www.visbot.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.visbot.net.ico",
     "slug": "visbot-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 468,
     "timeYear": 661,
     "dailyMinutesDown": {
+      "2025-07-20": 0,
       "2025-07-04": 17,
       "2025-07-03": 16,
       "2025-04-10": 24,
