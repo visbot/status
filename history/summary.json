@@ -4,19 +4,19 @@
     "url": "https://www.visbot.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.visbot.net.ico",
     "slug": "visbot-net",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "96.63%",
-    "uptimeMonth": "98.54%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "96.49%",
+    "uptimeMonth": "98.51%",
     "uptimeYear": "99.42%",
-    "time": 641,
-    "timeDay": 2742,
-    "timeWeek": 2278,
-    "timeMonth": 1150,
-    "timeYear": 630,
+    "time": 642,
+    "timeDay": 2421,
+    "timeWeek": 2252,
+    "timeMonth": 1162,
+    "timeYear": 632,
     "dailyMinutesDown": {
-      "2026-03-20": 20,
+      "2026-03-20": 34,
       "2026-03-19": 58,
       "2026-03-18": 30,
       "2026-03-15": 126,
@@ -88,8 +88,7 @@
       "2025-10-26": 18,
       "2025-10-24": 54,
       "2025-10-20": 144,
-      "2025-10-19": 21,
-      "2025-10-16": 17
+      "2025-10-19": 21
     }
   }
 ]
