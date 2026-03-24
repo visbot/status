@@ -5,6 +5,7 @@ repo: status
 sites:
   - name: visbot.net
     url: https://www.visbot.net
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
